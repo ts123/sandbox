@@ -1,0 +1,27 @@
+#! /bin/sh
+# vim: ft=python
+""":"
+exec python $0 ${1+"$@"}
+"""
+import sys
+import os
+import datetime
+import argparse
+
+def main():
+    option = parse_args(sys.argv[1:])
+    date = datetime.date.today() + datetime.timedelta(days=option.days)
+    sys.stdout.write(date.strftime(option.format))
+    if not option.n:
+        sys.stdout.write(os.linesep)
+
+def parse_args(args):
+    p = argparse.ArgumentParser("display the current date")
+    p.add_argument('-n', action='store_true', default=False, help='if set, do not print newline')
+    p.add_argument('-f', '--format', default='%Y%m%d', help='an argument to strftime')
+    p.add_argument('days', nargs='?', type=int, default=0, help='a number of days difference from today')
+    return p.parse_args(args)
+
+if __name__ == "__main__":
+    main()
+
