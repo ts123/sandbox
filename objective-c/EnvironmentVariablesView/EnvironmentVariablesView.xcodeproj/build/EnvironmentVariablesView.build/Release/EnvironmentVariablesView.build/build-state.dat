@@ -1,0 +1,580 @@
+TEnvironmentVariablesView
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.pch EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView normal x86_64
+cGenerateDSYMFile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app.dSYM /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView
+cCopyStringsFile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/InfoPlist.strings EnvironmentVariablesView/en.lproj/InfoPlist.strings
+cCpResource EnvironmentVariablesView/en.lproj/Credits.rtf build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Images.xcassets
+cProcessInfoPlistFile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Info.plist /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Info.plist
+cTouch /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005254D42E00000000000004B3
+t1381291054
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005254D42E00000000000001DE
+t1381291054
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000005254D42E000000000024BEE4
+t1381291054
+s2408164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000005254D42E0000000000007C70
+t1381291054
+s31856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c000000005254D42E0000000000020E90
+t1381291054
+s134800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c000000005254D42E000000000001A05C
+t1381291054
+s106588
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c000000005254D42E00000000000359C8
+t1381291054
+s219592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c000000005254D42E000000000000CC94
+t1381291054
+s52372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c000000005254D42E000000000002C318
+t1381291054
+s181016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c000000005254D42E00000000000283C4
+t1381291054
+s164804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c000000005254D42E0000000000013F68
+t1381291054
+s81768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005254D42F000000000004BBB8
+t1381291055
+s310200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005254D42F00000000000025C8
+t1381291055
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000005254D42F0000000000045D30
+t1381291055
+s286000
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005254D42F000000000008163C
+t1381291055
+s529980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005254D42F0000000000087878
+t1381291055
+s555128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000005254D42F000000000000962C
+t1381291055
+s38444
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c000000005254D42F0000000000020624
+t1381291055
+s132644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c000000005254D42F000000000006F490
+t1381291055
+s455824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c000000005254D42F0000000000016F90
+t1381291055
+s94096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c000000005254D42F000000000004546C
+t1381291055
+s283756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c000000005254D42F000000000002FA40
+t1381291055
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c000000005254D42F0000000000041644
+t1381291055
+s267844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c000000005254D42F000000000001B5F8
+t1381291055
+s112120
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005254D42F000000000002E0E4
+t1381291055
+s188644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005254D42F00000000000C4BAC
+t1381291055
+s805804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c000000005254D4300000000000035AE4
+t1381291056
+s219876
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c000000005254D43B000000000000654C
+t1381291067
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+c000000005254D43B00000000000143EC
+t1381291067
+s82924
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c000000005254D43B0000000000004528
+t1381291067
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005254D43B000000000000EDB8
+t1381291067
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005254D43B000000000000984C
+t1381291067
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c000000005254D43B0000000000004FEC
+t1381291067
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c000000005254D43B0000000000009F64
+t1381291067
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c000000005254D43B00000000000031D0
+t1381291067
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c000000005254D43B00000000000052E4
+t1381291067
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c000000005254D43B0000000000002D34
+t1381291067
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c000000005254D43B00000000000084E8
+t1381291067
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c000000005254D43B0000000000004FF4
+t1381291067
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c000000005254D43B00000000000047A4
+t1381291067
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c000000005254D43B0000000000004364
+t1381291067
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005254D43B0000000000002EF0
+t1381291067
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c000000005254D43B0000000000046BB8
+t1381291067
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005254D43B00000000000067BC
+t1381291067
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c000000005254D43B000000000001AD9C
+t1381291067
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005254D43B0000000000016C74
+t1381291067
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c000000005254D43B000000000000F204
+t1381291067
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c000000005254D43B0000000000008EC8
+t1381291067
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005254D43B0000000000008B14
+t1381291067
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005254D43B00000000000047C0
+t1381291067
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c000000005254D43B00000000000044D8
+t1381291067
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c000000005254D43B00000000000067AC
+t1381291067
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c000000005254D43B0000000000011E4C
+t1381291067
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c000000005254D43C0000000000001750
+t1381291068
+s5968
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.h
+c00000000526D5A3B000000000000012D
+t1382898235
+s301
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m
+c00000000526D5E44000000000000034C
+t1382899268
+s844
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Base.lproj/MainMenu.xib
+c00000000526D5AF7000000000000D35E
+t1382898423
+s54110
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Info.plist
+c00000000526D58D50000000000000443
+t1382897877
+s1091
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch
+c00000000526D58C900000000000000AC
+t1382897865
+s172
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Images.xcassets
+c00000000526D58C90000000000000066
+t1382897865
+s102
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/en.lproj/Credits.rtf
+c00000000526D58C900000000000001B4
+t1382897865
+s436
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/en.lproj/InfoPlist.strings
+c00000000526D58C9000000000000002D
+t1382897865
+s45
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m
+c00000000526D590E000000000000009E
+t1382897934
+s158
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o
+t1382936915
+s45024
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/EnvironmentVariablesView.LinkFileList
+c00000000526DF1510000000000000165
+t1382936913
+s357
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o
+t1382936914
+s3040
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/assetcatalog_dependencies.txt
+t1382936916
+s194
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/assetcatalog_generated_info.plist
+t1382936916
+s181
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app
+t1382936913
+s102
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app.dSYM
+t2
+s0
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Info.plist
+t1382936917
+s1453
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView
+t1382936915
+s16292
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/PkgInfo
+t1382936917
+s8
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1382936917
+s41823
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf
+t1382936915
+s436
+
+N/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1382936915
+s92
+
+N/var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.pch
+t1382936914
+s13080440
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3cf76ed1281eb841^719183d1281eb841^---0#1#1#--18"Check dependencies36"9D3BE8AE-B70E-4A5F-8CBD-3D4237B4D424-
+
+CCompileAssetCatalog /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Images.xcassets
+s404629715.222646
+e404629716.738632
+r1
+xCompileAssetCatalog
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"[1mCompileAssetCatalog[0m build/Release/EnvironmentVariablesView.app/Contents/Resources [1mEnvironmentVariablesView/Images.xcassets[0m138"[1mCompileAssetCatalog[0m build/Release/EnvironmentVariablesView.app/Contents/Resources [1mEnvironmentVariablesView/Images.xcassets[0ma11439d3281eb841^8f18bdd4281eb841^-224"/* com.apple.actool.compilation-results *//Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Images.xcassets/0000000000000000^1087"[1mCompileAssetCatalog[0m build/Release/EnvironmentVariablesView.app/Contents/Resources [1mEnvironmentVariablesView/Images.xcassets[0m    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.8 --target-device mac --compile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Images.xcassets36"ACC9AE07-F2D7-4BEB-8EB5-327700BAC742-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CCompileC build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404629714.894290
+e404629715.062531
+r1
+xCompileC
+xbuild/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m
+d/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m245"[1mCompileC[0m build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o [1mEnvironmentVariablesView/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0116e5d2281eb841^de1e10d3281eb841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m0000000000000000^3949"[1mCompileC[0m build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o [1mEnvironmentVariablesView/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-generated-files.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-own-target-headers.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-all-target-headers.hmap -iquote /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-project-headers.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/DerivedSources/x86_64 -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/DerivedSources -F/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release -include /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch -MMD -MT dependencies -MF /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/AppDelegate.m -o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o36"7411EEF3-0A63-461D-8D65-7BF15D06A2D7-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CCompileC build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404629714.895077
+e404629714.999726
+r1
+xCompileC
+xbuild/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m231"[1mCompileC[0m build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o [1mEnvironmentVariablesView/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerea41e5d2281eb841^9aecffd2281eb841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m0000000000000000^3907"[1mCompileC[0m build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o [1mEnvironmentVariablesView/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-generated-files.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-own-target-headers.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-all-target-headers.hmap -iquote /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-project-headers.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/DerivedSources/x86_64 -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/DerivedSources -F/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release -include /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch -MMD -MT dependencies -MF /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.dia -c /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/main.m -o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o36"A98D9BD9-CBBA-406D-853A-5D16E6B7E906-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CCompileXIB /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Base.lproj/MainMenu.xib
+s404629715.222001
+e404629717.349707
+r1
+xCompileXIB
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Base.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compiling /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Base.lproj/MainMenu.xib75"[1mCompileXIB[0m [1mEnvironmentVariablesView/Base.lproj/MainMenu.xib[0m4aee38d3281eb841^a98659d5281eb841^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Base.lproj/MainMenu.xib0000000000000000^689"[1mCompileXIB[0m [1mEnvironmentVariablesView/Base.lproj/MainMenu.xib[0m    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.8 --output-format human-readable-text --compile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/Base.lproj/MainMenu.xib36"B49EE091-883E-4F3C-B0FE-0E36978ADE9C-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CCopyStringsFile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/InfoPlist.strings EnvironmentVariablesView/en.lproj/InfoPlist.strings
+s404629715.213617
+e404629715.220725
+r1
+xCopyStringsFile
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/InfoPlist.strings
+xEnvironmentVariablesView/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy EnvironmentVariablesView/en.lproj/InfoPlist.strings164"[1mCopyStringsFile[0m build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/InfoPlist.strings EnvironmentVariablesView/en.lproj/InfoPlist.strings42cf36d3281eb841^64cc39d3281eb841^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/en.lproj/InfoPlist.strings0000000000000000^528"[1mCopyStringsFile[0m build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/InfoPlist.strings EnvironmentVariablesView/en.lproj/InfoPlist.strings    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj -- EnvironmentVariablesView/en.lproj/InfoPlist.strings36"1F2C39BB-7D0E-44B7-85CB-3187AA8D492E-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CCpResource EnvironmentVariablesView/en.lproj/Credits.rtf build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf
+s404629715.214303
+e404629715.221626
+r1
+xCpResource
+xEnvironmentVariablesView/en.lproj/Credits.rtf
+xbuild/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf147"[1mCpResource[0m EnvironmentVariablesView/en.lproj/Credits.rtf build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf41f236d3281eb841^cbd739d3281eb841^---0#0#1#-19%DVTDocumentLocation2@168"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf00389cf7ddffdf42^720"[1mCpResource[0m EnvironmentVariablesView/en.lproj/Credits.rtf build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/en.lproj/Credits.rtf /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Resources/en.lproj36"14181C0A-C4D6-4AF6-A731-68138681FC9B-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CGenerateDSYMFile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app.dSYM /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView
+s404629715.184981
+e404629715.204950
+r1
+xGenerateDSYMFile
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app.dSYM
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app.dSYM163"[1mGenerateDSYMFile[0m [1mbuild/Release/EnvironmentVariablesView.app.dSYM[0m build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView79742fd3281eb841^a39034d3281eb841^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app.dSYM00389cf7ddffdf42^615"[1mGenerateDSYMFile[0m [1mbuild/Release/EnvironmentVariablesView.app.dSYM[0m build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView -o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app.dSYM36"B44F2914-D317-4BAF-BC3E-DD91E271EB90-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CLd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView normal x86_64
+s404629715.075134
+e404629715.175614
+r1
+xLd
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView
+xnormal
+xx86_64
+d/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/EnvironmentVariablesView.LinkFileList
+d/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Link /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView107"[1mLd[0m build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView normal x86_646c5c13d3281eb841^4df52cd3281eb841^---0#0#1#--1311"[1mLd[0m build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView normal x86_64    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release -F/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release -filelist /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/EnvironmentVariablesView.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/Objects-normal/x86_64/EnvironmentVariablesView_dependency_info.dat -o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/MacOS/EnvironmentVariablesView36"6F6D8ACA-D152-4BC5-B573-1506C67EEC86-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CProcessInfoPlistFile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Info.plist /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Info.plist
+s404629717.360685
+e404629717.364694
+r1
+xProcessInfoPlistFile
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Info.plist
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Process /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Info.plist160"[1mProcessInfoPlistFile[0m build/Release/EnvironmentVariablesView.app/Contents/Info.plist [1mEnvironmentVariablesView/EnvironmentVariablesView-Info.plist[0m47735cd5281eb841^215c5dd5281eb841^---0#0#1#-19%DVTDocumentLocation2@146"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Info.plist0000000000000000^917"[1mProcessInfoPlistFile[0m build/Release/EnvironmentVariablesView.app/Contents/Info.plist [1mEnvironmentVariablesView/EnvironmentVariablesView-Info.plist[0m    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    builtin-infoPlistUtility /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Info.plist -genpkginfo /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/assetcatalog_generated_info.plist -o /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app/Contents/Info.plist36"C89F7F21-333D-4149-BDC7-6435A4D5F5C7-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CProcessPCH /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.pch EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404629713.521052
+e404629714.885327
+r1
+xProcessPCH
+x/var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.pch
+xEnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch366"[1mProcessPCH[0m /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.pch EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler91d185d1281eb841^f5a2e2d2281eb841^---0#0#1#-19%DVTDocumentLocation2@146"file://localhost/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch0000000000000000^3978"[1mProcessPCH[0m /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.pch EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-generated-files.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-own-target-headers.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-all-target-headers.hmap -iquote /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/EnvironmentVariablesView-project-headers.hmap -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/DerivedSources/x86_64 -I/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/EnvironmentVariablesView.build/Release/EnvironmentVariablesView.build/DerivedSources -F/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release --serialize-diagnostics /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.d -c /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/EnvironmentVariablesView/EnvironmentVariablesView-Prefix.pch -o /var/folders/41/yj24hrz13szc4x7bn7m711bh0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/EnvironmentVariablesView-Prefix-ffolwdvnbsxclcbtnuzhksoumfjj/EnvironmentVariablesView-Prefix.pch.pch36"5B8B345F-1081-4CAF-971D-DFB09306234E-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
+CTouch /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app
+s404629717.373436
+e404629717.406628
+r1
+xTouch
+x/Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app56"[1mTouch[0m build/Release/EnvironmentVariablesView.app31b35fd5281eb841^f81868d5281eb841^---0#0#1#--269"[1mTouch[0m build/Release/EnvironmentVariablesView.app    cd /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView    /usr/bin/touch -c /Users/tsugi/sandbox/objective-c/cocoa/xcode/EnvironmentVariablesView/build/Release/EnvironmentVariablesView.app36"037A812A-F88A-4E24-B01A-FF0184AA7A16-
+b2DDD24E3-BA12-45FB-A0F5-4EBFDDE9045D
+
